@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: oklch(63.7% 0.237 25.331);
+  --font-paaji: "Geist", sans-serif;
+}
